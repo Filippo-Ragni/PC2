@@ -1,3 +1,3 @@
 # progettoCorda
 
-file col codice scritto durante le lezioni del progetto corda
+cartella coi file scritti durante le lezioni del progetto corda
